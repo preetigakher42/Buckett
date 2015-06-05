@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:SplashViewController.h">
+   </FileRef>
+   <FileRef
+      location = "group:SplashViewController.m">
+   </FileRef>
+   <FileRef
+      location = "group:Buckett.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Pods/Pods.xcodeproj">
+   </FileRef>
+</Workspace>
