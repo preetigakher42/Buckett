@@ -2,12 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "group:SplashViewController.h">
-   </FileRef>
-   <FileRef
-      location = "group:SplashViewController.m">
-   </FileRef>
-   <FileRef
       location = "group:Buckett.xcodeproj">
    </FileRef>
    <FileRef

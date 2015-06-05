@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>8EE20BD8-E6A1-43D0-BDA3-045697EDA81F</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Buckett</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>391088B4FC231EC3CF55D92572F318DF5BDF786C</key>
+		<string>https://github.com/preetigakher42/Buckett.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Buckett.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>391088B4FC231EC3CF55D92572F318DF5BDF786C</key>
+		<string>..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/preetigakher42/Buckett.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>391088B4FC231EC3CF55D92572F318DF5BDF786C</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>391088B4FC231EC3CF55D92572F318DF5BDF786C</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Buckett</string>
+		</dict>
+	</array>
+</dict>
+</plist>

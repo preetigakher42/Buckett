@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		7677501F1B219D1B00328E66 /* SplashViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 7677501E1B219D1B00328E66 /* SplashViewController.m */; };
 		9B053B651B20306A0045538E /* square.png in Resources */ = {isa = PBXBuildFile; fileRef = 9B053B641B2030690045538E /* square.png */; };
 		9B053B681B2036410045538E /* DraggableView.m in Sources */ = {isa = PBXBuildFile; fileRef = 9B053B671B2036410045538E /* DraggableView.m */; };
 		9B053B6A1B2036880045538E /* DraggableView.xib in Resources */ = {isa = PBXBuildFile; fileRef = 9B053B691B2036880045538E /* DraggableView.xib */; };
@@ -98,6 +99,8 @@
 
 /* Begin PBXFileReference section */
 		1E889DDEF6D19B3A0650FF49 /* Pods-Buckett.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Buckett.debug.xcconfig"; path = "Pods/Target Support Files/Pods-Buckett/Pods-Buckett.debug.xcconfig"; sourceTree = "<group>"; };
+		7677501D1B219D1B00328E66 /* SplashViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SplashViewController.h; sourceTree = "<group>"; };
+		7677501E1B219D1B00328E66 /* SplashViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SplashViewController.m; sourceTree = "<group>"; };
 		9B053B641B2030690045538E /* square.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = square.png; sourceTree = "<group>"; };
 		9B053B661B2036410045538E /* DraggableView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DraggableView.h; sourceTree = "<group>"; };
 		9B053B671B2036410045538E /* DraggableView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DraggableView.m; sourceTree = "<group>"; };
@@ -369,6 +372,8 @@
 				9B3DD4711B144E57001E78E2 /* ValidationMethods */,
 				9B3DD46D1B144480001E78E2 /* UserModel */,
 				9BCF60241B0AFDE9008B2A2F /* Main.storyboard */,
+				7677501D1B219D1B00328E66 /* SplashViewController.h */,
+				7677501E1B219D1B00328E66 /* SplashViewController.m */,
 				9BD1E5DB1B218704001FD44E /* PostView */,
 				9BD595491B15E21D004BE20B /* HomeView */,
 				9B3DD47F1B14A923001E78E2 /* PostView */,
@@ -691,6 +696,7 @@
 				9B3DD4701B1444A3001E78E2 /* User.m in Sources */,
 				9BD457F81B1DBCDB00A73084 /* PostWishViewController.m in Sources */,
 				9B3B205F1B0C96EF00C8AEB2 /* EditProfileViewController.m in Sources */,
+				7677501F1B219D1B00328E66 /* SplashViewController.m in Sources */,
 				9B053B6C1B20408C0045538E /* PostShareImgViewController.m in Sources */,
 				9BCF60201B0AFDE9008B2A2F /* AppDelegate.m in Sources */,
 				9BD595221B15CE67004BE20B /* HomeViewController.m in Sources */,
